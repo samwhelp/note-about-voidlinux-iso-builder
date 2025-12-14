@@ -21,8 +21,10 @@
 
 | Voidlinux Live Build Config |
 | --------------------------- |
-| [Voidlinux ISO Builder Config / Start](https://github.com/samwhelp/voidlinux-live-build-config-start/tree/main/prototype/main/) |
-| [Voidlinux ISO Builder Config / Develop](https://github.com/samwhelp/voidlinux-live-build-config-develop/tree/main/prototype/main/) |
+| [Voidlinux ISO Builder Config / Start](https://github.com/samwhelp/voidlinux-live-build-config-start) |
+| [Voidlinux ISO Builder Config / Develop](https://github.com/samwhelp/voidlinux-live-build-config-develop) |
+| [Voidlinux ISO Builder Config / Collection](https://github.com/samwhelp/voidlinux-live-build-config-collection) |
+| [Voidlinux ISO Builder Config / Respin / Xfce](https://github.com/samwhelp/voidlinux-live-build-config-respin-xfce) |
 
 
 
