@@ -5,6 +5,7 @@
 | Link | GitHub |
 | ---- | ------ |
 | [Voidlinux ISO Builder 探索筆記](https://samwhelp.github.io/note-about-voidlinux-iso-builder/) | [GitHub](https://github.com/samwhelp/note-about-voidlinux-iso-builder) |
+| [Voidlinux 探索筆記](https://samwhelp.github.io/note-about-voidlinux/) | [GitHub](https://github.com/samwhelp/note-about-voidlinux) |
 
 
 
